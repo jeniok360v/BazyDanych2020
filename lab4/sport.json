@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "nazwa": "Boks",
+    "miejsce": "hala",
+    "typ": "zespolowy",
+    "miasto":  "Warszawa"
+      
+  },
+  {
+    "id": 1,
+    "nazwa": "Badminton",
+    "miejsce": "hala",
+    "typ": "indywidualny",
+    "turniej": "2019-12-26"
+
+  },
+  {
+    "id": 2,
+    "nazwa": "Golf",
+    "miejsce": "na zewnatrz",
+    "typ": "zespolowy",
+    "miasto": "Wroclaw"
+  },
+  {
+    "id": 3,
+    "nazwa": "Judo",
+    "miejsce": [ "hala", "na zewnatrz" ],
+    "typ": "indywidualny"
+  },
+  {
+    "id": 4,
+    "nazwa": "Kajakarstwo",
+    "miejsce": "hala",
+    "typ": "zespolowy",
+    "turniej":  "2020-11-12"
+
+  },
+  {
+    "id": 5,
+    "nazwa": "Lekkoatletyka",
+    "miejsce": "na zewnatrz",
+    "typ": "zespolowy"
+  },
+  {
+    "id": 6,
+    "nazwa": "Snowboard",
+    "miejsce": "hala",
+    "typ": "indywidualny",
+    "miasto":  "Warszawa"
+  },
+  {
+    "id": 7,
+    "nazwa": "Baseball",
+    "miejsce": "hala",
+    "typ": "zespolowy"
+  },
+  {
+    "id": 8,
+    "nazwa": "Rugby",
+    "miejsce": "hala",
+    "typ": "indywidualny"
+  },
+  {
+    "id": 9,
+    "nazwa": "Sport kartingowy",
+    "miejsce": "na zewnatrz",
+    "typ": "indywidualny"
+  }
+]

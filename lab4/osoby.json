@@ -1,0 +1,847 @@
+[
+  {
+    "id": 0,
+    "imie": "Palmer",
+    "nazwisko": "Pratt",
+    "wzrost": 193,
+    "zainteresowania_id": [
+      8,
+      9,
+      6
+    ],
+    "obywatelstwo": "Tanzania",
+    "zwierzaki": {
+      "gatunek_id": 8,
+      "imie_pupila": "Vanessa",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 1,
+    "imie": "Monica",
+    "nazwisko": "Dennis",
+    "wzrost": 197,
+    "zainteresowania_id": [
+      9,
+      2,
+      5
+    ],
+    "obywatelstwo": "Niue",
+    "zwierzaki": {
+      "gatunek_id": 6,
+      "imie_pupila": "Duke",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 2,
+    "imie": "Ratliff",
+    "nazwisko": "Jacobson",
+    "wzrost": 195,
+    "zainteresowania_id": [
+      1,
+      6,
+      8
+    ],
+    "obywatelstwo": "Japan",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "Graciela",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 3,
+    "imie": "Dorothea",
+    "nazwisko": "Shaffer",
+    "wzrost": 159,
+    "zainteresowania_id": [
+      0,
+      2,
+      9
+    ],
+    "obywatelstwo": "Gibraltar",
+    "zwierzaki": {
+      "gatunek_id": 1,
+      "imie_pupila": "Maryann",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 4,
+    "imie": "Janette",
+    "nazwisko": "Hurley",
+    "wzrost": 181,
+    "zainteresowania_id": [
+      8,
+      0,
+      5
+    ],
+    "obywatelstwo": "Poland",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Bauer",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 5,
+    "imie": "Elisabeth",
+    "nazwisko": "Langley",
+    "wzrost": 159,
+    "zainteresowania_id": [
+      5,
+      2
+    ],
+    "obywatelstwo": "United Kingdom",
+    "zwierzaki": {
+      "gatunek_id": 9,
+      "imie_pupila": "James",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 6,
+    "imie": "Armstrong",
+    "nazwisko": "Stephenson",
+    "wzrost": 171,
+    "zainteresowania_id": [
+      3,
+      8,
+      2
+    ],
+    "obywatelstwo": [
+      "Israel",
+      "Tanzania"
+    ],
+      "zwierzaki":
+      {
+        "gatunek_id": 6,
+        "imie_pupila": "Hodge",
+        "plec": "f"
+      }
+  },
+  {
+    "id": 7,
+    "imie": "Beard",
+    "nazwisko": "Goodwin",
+    "wzrost": 177,
+    "zainteresowania_id": [
+      8,
+      6,
+      1
+    ],
+    "obywatelstwo": [
+      "Turks and Caicos Islands",
+      "Yemen"
+    ],
+      "zwierzaki":
+
+      {
+        "gatunek_id": 4,
+        "imie_pupila": "Kelsey",
+        "plec": "m"
+      }
+  },
+  {
+    "id": 8,
+    "imie": "Bird",
+    "nazwisko": "Cline",
+    "wzrost": 171,
+    "zainteresowania_id": [
+      0,
+      9,
+      6
+    ],
+    "obywatelstwo": "New Zealand"
+  },
+  {
+    "id": 9,
+    "imie": "Paige",
+    "nazwisko": "Fitzpatrick",
+    "wzrost": 198,
+    "zainteresowania_id": [
+      5,
+      4,
+      1
+    ],
+    "obywatelstwo": "Djibouti",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Sandy",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 10,
+    "imie": "Erickson",
+    "nazwisko": "Fuller",
+    "wzrost": 165,
+    "zainteresowania_id": [
+      2,
+      0,
+      3
+    ],
+    "obywatelstwo": "Yemen",
+    "zwierzaki": {
+      "gatunek_id": 2,
+      "imie_pupila": "George",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 11,
+    "imie": "Barton",
+    "nazwisko": "Farrell",
+    "wzrost": 190,
+    "zainteresowania_id": [
+      1,
+      3
+    ],
+    "obywatelstwo": "American Samoa",
+    "zwierzaki": {
+      "gatunek_id": 2,
+      "imie_pupila": "Christine",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 12,
+    "imie": "Ann",
+    "nazwisko": "Cortez",
+    "wzrost": 174,
+    "zainteresowania_id": [
+      8,
+      2
+    ],
+    "obywatelstwo": "Suriname",
+    "zwierzaki": {
+      "gatunek_id": 2,
+      "imie_pupila": "Howell",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 13,
+    "imie": "Iris",
+    "nazwisko": "Carson",
+    "wzrost": 166,
+    "zainteresowania_id": [
+      7,
+      1,
+      2
+    ],
+    "obywatelstwo": "Thailand",
+    "zwierzaki": {
+      "gatunek_id": 8,
+      "imie_pupila": "Klein",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 14,
+    "imie": "Atkins",
+    "nazwisko": "Jackson",
+    "wzrost": 163,
+    "zainteresowania_id": [
+      6,
+      2
+    ],
+    "obywatelstwo": "Yugoslavia",
+    "zwierzaki": {
+      "gatunek_id": 4,
+      "imie_pupila": "Genevieve",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 15,
+    "imie": "Josefina",
+    "nazwisko": "York",
+    "wzrost": 191,
+    "zainteresowania_id": [
+      9,
+      7
+    ],
+    "obywatelstwo": "Nepal",
+    "zwierzaki": {
+      "gatunek_id": 9,
+      "imie_pupila": "Guzman",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 16,
+    "imie": "Mccullough",
+    "nazwisko": "Ferguson",
+    "wzrost": 159,
+    "zainteresowania_id": [
+      9,
+      8,
+      2
+    ],
+    "obywatelstwo": "Bulgaria",
+    "zwierzaki": {
+      "gatunek_id": 6,
+      "imie_pupila": "Salas",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 17,
+    "imie": "Diaz",
+    "nazwisko": "Sherman",
+    "wzrost": 180,
+    "zainteresowania_id": [
+      3,
+      1,
+      2
+    ],
+    "obywatelstwo": [
+
+      "Egypt",
+      "Thailand"
+    ],
+      "zwierzaki":
+
+      {
+        "gatunek_id": 0,
+        "imie_pupila": "Willis",
+        "plec": "m"
+      }
+  },
+  {
+    "id": 18,
+    "imie": "Aileen",
+    "nazwisko": "Chaney",
+    "wzrost": 186,
+    "zainteresowania_id": [
+      8,
+      3
+    ],
+    "obywatelstwo": "Viet Nam",
+    "zwierzaki": {
+      "gatunek_id": 9,
+      "imie_pupila": "Hopkins",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 19,
+    "imie": "Hayes",
+    "nazwisko": "Dixon",
+    "wzrost": 171,
+    "zainteresowania_id": [
+      2,
+      3,
+      7
+    ],
+    "obywatelstwo": "Zimbabwe",
+    "zwierzaki": {
+      "gatunek_id": 7,
+      "imie_pupila": "Hobbs",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 20,
+    "imie": "Bates",
+    "nazwisko": "Saunders",
+    "wzrost": 171,
+    "zainteresowania_id": [
+      4,
+      8
+    ],
+    "obywatelstwo": "Samoa",
+    "zwierzaki": {
+      "gatunek_id": 0,
+      "imie_pupila": "Myers",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 21,
+    "imie": "Cooley",
+    "nazwisko": "Murphy",
+    "wzrost": 192,
+    "zainteresowania_id": [
+      0,
+      6,
+      4
+    ],
+    "obywatelstwo": "Croatia (Hrvatska)",
+    "zwierzaki": {
+      "gatunek_id": 2,
+      "imie_pupila": "Carr",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 22,
+    "imie": "Peters",
+    "nazwisko": "Stout",
+    "wzrost": 166,
+    "zainteresowania_id": [
+      0,
+      1,
+      7
+    ],
+    "obywatelstwo": "Cape Verde",
+    "zwierzaki": {
+      "gatunek_id": 8,
+      "imie_pupila": "Higgins",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 23,
+    "imie": "Miriam",
+    "nazwisko": "Moran",
+    "wzrost": 185,
+    "zainteresowania_id": [
+      9,
+      2,
+      7
+    ],
+    "obywatelstwo": "Christmas Island",
+    "zwierzaki": {
+      "gatunek_id": 4,
+      "imie_pupila": "Harrison",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 24,
+    "imie": "Mari",
+    "nazwisko": "Pena",
+    "wzrost": 181,
+    "zainteresowania_id": [
+      0,
+      1,
+      6
+    ],
+    "obywatelstwo": "Malawi",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "Clay",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 25,
+    "imie": "Angeline",
+    "nazwisko": "Guerrero",
+    "wzrost": 183,
+    "zainteresowania_id": [
+      2,
+      1,
+      5
+    ],
+    "obywatelstwo": "Tonga",
+    "zwierzaki": {
+      "gatunek_id": 1,
+      "imie_pupila": "Glover",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 26,
+    "imie": "Mclaughlin",
+    "nazwisko": "Peck",
+    "wzrost": 187,
+    "zainteresowania_id": [
+      0,
+      9,
+      6
+    ],
+    "obywatelstwo": "Cook Islands",
+    "zwierzaki": {
+      "gatunek_id": 7,
+      "imie_pupila": "Luella",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 27,
+    "imie": "Woodward",
+    "nazwisko": "Sanders",
+    "wzrost": 200,
+    "zainteresowania_id": [
+      0,
+      9,
+      1
+    ],
+    "obywatelstwo": "Slovak Republic",
+    "zwierzaki": {
+      "gatunek_id": 1,
+      "imie_pupila": "Rosie",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 28,
+    "imie": "Arline",
+    "nazwisko": "Waters",
+    "wzrost": 161,
+    "zainteresowania_id": [
+      2,
+      5,
+      3
+    ],
+    "obywatelstwo": "Iran",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "Stone",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 29,
+    "imie": "Cindy",
+    "nazwisko": "Kirby",
+    "wzrost": 172,
+    "zainteresowania_id": [
+      1,
+      6,
+      4
+    ],
+    "obywatelstwo": "San Marino",
+    "zwierzaki": {
+      "gatunek_id": 8,
+      "imie_pupila": "Cain",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 30,
+    "imie": "Ortega",
+    "nazwisko": "Wilcox",
+    "wzrost": 172,
+    "zainteresowania_id": [
+      9,
+      0
+    ],
+    "obywatelstwo": "Czech Republic",
+    "zwierzaki": {
+      "gatunek_id": 4,
+      "imie_pupila": "Dollie",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 31,
+    "imie": "Townsend",
+    "nazwisko": "Hansen",
+    "wzrost": 197,
+    "zainteresowania_id": [
+      7,
+      8
+    ],
+    "obywatelstwo": "Indonesia",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Beverley",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 32,
+    "imie": "Perez",
+    "nazwisko": "Fitzgerald",
+    "wzrost": 182,
+    "zainteresowania_id": [
+      2,
+      4,
+      9
+    ],
+    "obywatelstwo": "Faroe Islands",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Berger",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 33,
+    "imie": "Casey",
+    "nazwisko": "Bowen",
+    "wzrost": 178,
+    "zainteresowania_id": [
+      5,
+      1
+    ],
+    "obywatelstwo": "Uruguay",
+    "zwierzaki": {
+      "gatunek_id": 7,
+      "imie_pupila": "Rosetta",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 34,
+    "imie": "Kirkland",
+    "nazwisko": "Parsons",
+    "wzrost": 164,
+    "zainteresowania_id": [
+      3,
+      6,
+      5
+    ],
+    "obywatelstwo": "Jordan",
+    "zwierzaki": {
+      "gatunek_id": 8,
+      "imie_pupila": "Harriett",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 35,
+    "imie": "Farley",
+    "nazwisko": "Weaver",
+    "wzrost": 185,
+    "zainteresowania_id": [
+      4,
+      0,
+      9
+    ],
+    "obywatelstwo": "Moldova",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "Lucinda",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 36,
+    "imie": "Bentley",
+    "nazwisko": "Mullen",
+    "wzrost": 160,
+    "zainteresowania_id": [
+      4,
+      9
+    ],
+    "obywatelstwo": "France, Metropolitan",
+    "zwierzaki": {
+      "gatunek_id": 6,
+      "imie_pupila": "Macdonald",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 37,
+    "imie": "Maura",
+    "nazwisko": "Parker",
+    "wzrost": 182,
+    "zainteresowania_id": [
+      7,
+      0,
+      1
+    ],
+    "obywatelstwo": "Marshall Islands",
+    "zwierzaki": {
+      "gatunek_id": 7,
+      "imie_pupila": "Kaitlin",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 38,
+    "imie": "Lesley",
+    "nazwisko": "Hurst",
+    "wzrost": 194,
+    "zainteresowania_id": [
+      8,
+      6
+    ],
+    "obywatelstwo": "French Southern Territories",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Sylvia",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 39,
+    "imie": "Velasquez",
+    "nazwisko": "Buck",
+    "wzrost": 190,
+    "zainteresowania_id": [
+      3,
+      2
+    ],
+    "obywatelstwo": "Lithuania",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Mendez",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 40,
+    "imie": "Reid",
+    "nazwisko": "Morton",
+    "wzrost": 187,
+    "zainteresowania_id": [
+      0,
+      3,
+      7
+    ],
+    "obywatelstwo": "Bosnia and Herzegovina",
+    "zwierzaki": {
+      "gatunek_id": 6,
+      "imie_pupila": "Hampton",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 41,
+    "imie": "Theresa",
+    "nazwisko": "Mcgowan",
+    "wzrost": 191,
+    "zainteresowania_id": [
+      7,
+      8,
+      9
+    ],
+    "obywatelstwo": "Nauru",
+    "zwierzaki": {
+      "gatunek_id": 0,
+      "imie_pupila": "Barry",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 42,
+    "imie": "Knight",
+    "nazwisko": "Shannon",
+    "wzrost": 180,
+    "zainteresowania_id": [
+      7,
+      2,
+      1
+    ],
+    "obywatelstwo": "Chile",
+    "zwierzaki": {
+      "gatunek_id": 4,
+      "imie_pupila": "Reyna",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 43,
+    "imie": "Dana",
+    "nazwisko": "Vaughn",
+    "wzrost": 192,
+    "zainteresowania_id": [
+      6,
+      3
+    ],
+    "obywatelstwo": "Comoros",
+    "zwierzaki": {
+      "gatunek_id": 0,
+      "imie_pupila": "Haney",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 44,
+    "imie": "Petersen",
+    "nazwisko": "Brock",
+    "wzrost": 160,
+    "zainteresowania_id": [
+      1,
+      4,
+      9
+    ],
+    "obywatelstwo": "Pitcairn",
+    "zwierzaki": {
+      "gatunek_id": 4,
+      "imie_pupila": "Stephens",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 45,
+    "imie": "Miles",
+    "nazwisko": "Fulton",
+    "wzrost": 177,
+    "zainteresowania_id": [
+      7,
+      2,
+      0
+    ],
+    "obywatelstwo": "Netherlands Antilles",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "Garcia",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 46,
+    "imie": "Berry",
+    "nazwisko": "King",
+    "wzrost": 165,
+    "zainteresowania_id": [
+      9,
+      7
+    ],
+    "obywatelstwo": "Nicaragua",
+    "zwierzaki": {
+      "gatunek_id": 1,
+      "imie_pupila": "Addie",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 47,
+    "imie": "Kitty",
+    "nazwisko": "Daugherty",
+    "wzrost": 193,
+    "zainteresowania_id": [
+      7,
+      0,
+      2
+    ],
+    "obywatelstwo": "Kiribati",
+    "zwierzaki": {
+      "gatunek_id": 5,
+      "imie_pupila": "White",
+      "plec": "f"
+    }
+  },
+  {
+    "id": 48,
+    "imie": "Flossie",
+    "nazwisko": "Sandoval",
+    "wzrost": 195,
+    "zainteresowania_id": [
+      1,
+      0,
+      5
+    ],
+    "obywatelstwo": "Kenya",
+    "zwierzaki": {
+      "gatunek_id": 3,
+      "imie_pupila": "Henry",
+      "plec": "m"
+    }
+  },
+  {
+    "id": 49,
+    "imie": "Alicia",
+    "nazwisko": "Weeks",
+    "wzrost": 159,
+    "zainteresowania_id": [
+      2,
+      3,
+      4
+    ],
+    "obywatelstwo": "Aruba",
+    "zwierzaki": {
+      "gatunek_id": 1,
+      "imie_pupila": "Brooke",
+      "plec": "f"
+    }
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": 0,
+    "gatunek": "Krolik domowy",
+    "min_waga": 4,
+    "max_waga": 203,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 36
+  },
+  {
+    "id": 1,
+    "gatunek": "Burunduk syberyjski",
+    "min_waga": 6,
+    "max_waga": 53,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 45
+  },
+  {
+    "id": 2,
+    "gatunek": "Koszatniczka",
+    "min_waga": 6,
+    "max_waga": 140,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 33
+  },
+  {
+    "id": 3,
+    "gatunek": "Myszarka lesna",
+    "min_waga": 4,
+    "max_waga": 140,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 50
+  },
+  {
+    "id": 4,
+    "gatunek": "Chomik",
+    "min_waga": 5,
+    "max_waga": 93,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 13
+  },
+  {
+    "id": 5,
+    "gatunek": "Fretka domowa",
+    "min_waga": 4,
+    "max_waga": 179,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 49
+  },
+  {
+    "id": 6,
+    "gatunek": "Suwak mongolski",
+    "min_waga": 5,
+    "max_waga": 203,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 16
+  },
+  {
+    "id": 7,
+    "gatunek": "Suwak perski",
+    "min_waga": 4,
+    "max_waga": 171,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 43
+  },
+  {
+    "id": 8,
+    "gatunek": "Szynszyla",
+    "min_waga": 4,
+    "max_waga": 150,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata",
+      "Tarantowata",
+      "Hreczka",
+      "Srokata"
+    ],
+    "dlugosc_zycia": 21
+  },
+  {
+    "id": 9,
+    "gatunek": "kon",
+    "rasa": [
+      "czystej krwi arabskiej",
+      "Mustang",
+      "Quarter",
+      "Fryzyjski",
+      "Clydesdale"
+    ],
+    "min_waga": 5,
+    "max_waga": 198,
+    "gama_ubarwienia": [
+      "Siwa",
+      "Izabelowata",
+      "Gniada",
+      "Kasztanowato-dereszowata"
+    ],
+    "dlugosc_zycia": 35
+  }
+]
